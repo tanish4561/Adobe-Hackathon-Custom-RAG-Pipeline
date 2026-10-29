@@ -1,0 +1,8 @@
+numpy
+tqdm
+torch
+transformers
+sentence-transformers
+huggingface_hub
+PyMuPDF
+Pillow

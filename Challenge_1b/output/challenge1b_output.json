@@ -1,0 +1,31 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planner",
+    "description": "France Travel"
+  },
+  "persona": "Travel Planner",
+  "job": "Plan a trip of 4 days for a group of 10 college friends.",
+  "relevant_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "title": "South of France - Cuisine",
+      "relevance_score": 0.07656341791152954,
+      "content": "A Culinary Journey Through the South of France \nIntroduction \nThe South of France, known for its stunning landscapes and charming villages, is also a \nparadise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, \nfresh ingredients, and traditional recipes passed down through generations. This guide will \ntake you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned \nwine regions, and the types of wines they produce to help you plan an unforgettable culinary \nadventure. \n \n \n\nTypes of Food \nThe cuisine in the South of France is diverse, reflecting the region's rich history and cultural \ninfluences. Here are some key types of food you can expect to find: \n• \nSeafood: With its extensive coastline, the South of France oﬀers an abundance of fresh \nseafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with \nMediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea \nbas"
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "title": "South of France - Cities",
+      "relevance_score": 0.032583124935626984,
+      "content": "Comprehensive Guide to Major Cities in the South of France \nIntroduction \nThe South of France, known for its stunning landscapes, Mediterranean coastline, and rich \ncultural heritage, is home to some of the most beautiful and historically significant cities in the \ncountry. This guide provides an in-depth look at the major cities in the South of France, \ndetailing their history, key attractions, cultural highlights, and unique characteristics. Whether \nyou're planning a visit or simply want to learn more about this enchanting region, this guide \nwill oﬀer valuable insights into each city's charm and allure. \n \n \n\nOverview of the Region \nThe South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, \nOccitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, \nfrom the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and \nthe rugged Pyrenees mountains. The Mediterranean climate ensures warm summe"
+    }
+  ],
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf"
+    ],
+    "timestamp": "2025-07-28T13:38:27.844995Z",
+    "model_version": "1.0.0"
+  }
+}

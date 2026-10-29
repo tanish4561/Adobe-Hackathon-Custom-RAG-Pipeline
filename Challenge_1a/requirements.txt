@@ -1,0 +1,14 @@
+# Core ML dependencies for PDF Outline Extraction
+torch==1.13.1
+transformers
+numpy
+
+# PDF processing
+PyMuPDF  # This is the 'fitz' package
+
+# Utilities
+tqdm
+argparse
+
+# Note: Models are stored locally in output/
+# - Fine-tuned heading model in output/fine_tuned_heading_model/ 

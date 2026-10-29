@@ -1,0 +1,104 @@
+pdf,page,text,label
+example1.pdf,1,ABSTRACT,H1
+example1.pdf,1,1. INTRODUCTION,H1
+example1.pdf,1,Introduction,H1
+example1.pdf,2,2. BACKGROUND,H1
+example1.pdf,2,Background,H1
+example1.pdf,2,2.1 Previous Work,H2
+example1.pdf,2,2.1.1 Related Studies,H3
+example1.pdf,2,"This paper discusses the results of...",None
+example1.pdf,3,METHODS,H1
+example1.pdf,3,3. METHODS,H1
+example1.pdf,3,3.1 Data Collection,H2
+example1.pdf,3,3.1.1 Survey Design,H3
+example1.pdf,3,"Participants were recruited via...",None
+example1.pdf,4,RESULTS,H1
+example1.pdf,4,4. RESULTS,H1
+example1.pdf,4,4.1 Main Findings,H2
+example1.pdf,4,4.1.1 Statistical Analysis,H3
+example1.pdf,4,"The results indicate a significant...",None
+example1.pdf,5,DISCUSSION,H1
+example1.pdf,5,5. DISCUSSION,H1
+example1.pdf,5,5.1 Interpretation,H2
+example1.pdf,5,5.1.1 Limitations,H3
+example1.pdf,6,CONCLUSION,H1
+example1.pdf,6,6. CONCLUSION,H1
+example1.pdf,6,6.1 Future Work,H2
+example1.pdf,6,6.1.1 Recommendations,H3
+example1.pdf,7,REFERENCES,H1
+example1.pdf,8,APPENDIX,H1
+example1.pdf,8,"Appendix A: Survey Questions",H2
+example1.pdf,8,"Appendix B: Data Tables",H2
+example1.pdf,8,"Table 1: Demographics",None
+example1.pdf,8,"Figure 2: Results Overview",None
+example1.pdf,8,"All rights reserved.",None
+example1.pdf,8,"Contact: author@example.com",None
+example1.pdf,8,"Copyright © 2024",None
+example1.pdf,9,1.2.3.4 Deep Dive,H3
+example1.pdf,9,1.2.3 Subsection,H3
+example1.pdf,9,1.2 Section,H2
+example1.pdf,9,1 Main Section,H1
+example1.pdf,10,Summary and Conclusions,H1
+example1.pdf,10,Supplementary Material,H1
+example1.pdf,10,List of Figures,H1
+example1.pdf,10,List of Tables,H1
+example1.pdf,10,Table of Contents,H1
+example1.pdf,10,Preface,H1
+example1.pdf,10,Foreword,H1
+example1.pdf,10,Acknowledgments,H1
+example1.pdf,10,Executive Summary,H1
+example1.pdf,10,General Information,H1
+example1.pdf,10,Overview,H1
+example1.pdf,10,"Main Content",None
+example1.pdf,10,"See Figure 3 for details.",None
+example1.pdf,10,"Data were analyzed using Python.",None
+example1.pdf,11,"Section 2.3.1: Experimental Setup",H3
+example1.pdf,11,"Section 2.3: Methods",H2
+example1.pdf,11,"Section 2: Background",H1
+example1.pdf,12,"Appendix C: Additional Results",H2
+example1.pdf,12,"Supplementary Table 1",None
+example1.pdf,12,"Supplementary Figure 1",None
+example1.pdf,12,"End of Document",None
+example1.pdf,12,"Page 1",None
+example1.pdf,12,"Page 2",None
+example2.pdf,1,1. Introduction,H1
+example2.pdf,1,1.1. Motivation,H2
+example2.pdf,1,1.1.1. Details,H3
+example2.pdf,2,2. Literature Review,H1
+example2.pdf,2,2.1. Previous Research,H2
+example2.pdf,2,2.1.1. Key Findings,H3
+example2.pdf,3,3. Methodology,H1
+example2.pdf,3,3.1. Data Sources,H2
+example2.pdf,3,3.1.1. Data Cleaning,H3
+example2.pdf,4,4. Analysis,H1
+example2.pdf,4,4.1. Statistical Methods,H2
+example2.pdf,4,4.1.1. Regression Analysis,H3
+example2.pdf,5,5. Results,H1
+example2.pdf,5,5.1. Main Outcomes,H2
+example2.pdf,5,5.1.1. Subgroup Analysis,H3
+example2.pdf,6,6. Discussion,H1
+example2.pdf,6,6.1. Implications,H2
+example2.pdf,6,6.1.1. Limitations,H3
+example2.pdf,7,7. Conclusion,H1
+example2.pdf,7,7.1. Summary,H2
+example2.pdf,7,7.1.1. Recommendations,H3
+example2.pdf,8,References,H1
+example2.pdf,9,Appendix,H1
+example2.pdf,9,Appendix A,H2
+example2.pdf,9,Appendix B,H2
+example2.pdf,9,Appendix C,H2
+example2.pdf,10,Supplementary Information,H1
+example2.pdf,10,"Supplementary Table 2",None
+example2.pdf,10,"Supplementary Figure 2",None
+example2.pdf,10,Endnotes,H1
+example2.pdf,10,Author Contributions,H1
+example2.pdf,10,Funding,H1
+example2.pdf,10,Conflicts of Interest,H1
+example2.pdf,10,Ethics Statement,H1
+example2.pdf,10,Data Availability,H1
+example2.pdf,10,Code Availability,H1
+example2.pdf,10,ORCID iD,None
+example2.pdf,10,"Correspondence to: Dr. Smith",None
+example2.pdf,10,"Received: January 2024",None
+example2.pdf,10,"Accepted: March 2024",None
+example2.pdf,10,"Published: April 2024",None
